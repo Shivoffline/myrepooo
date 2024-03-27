@@ -1021,3 +1021,134 @@ So this is a brief intro about myself.
 
 =============================================================================================================
 
+DevOps Advance tools to learn:
+-------------------------------
+Cloud : AWS,Azure,GCP.
+IAC : Terraform, CloudFormation, Pulumi, Azure Template 
+Container Orchastration : K8s
+
+ K8s Topics:
+    Installion
+	Architecture
+	Various Pods 
+	     Service
+		 Ingress & IngressController
+		 deployment
+		 statefulset
+		 deamonSet
+		 ConfigMap
+		 Secret
+		 namespace
+		 PV,PVC
+		 StorageClass
+		 RBAC
+		 ServiceAccount
+		 HPA
+		 PodAntiaffinty & PodAffinity
+		 NodeAffinty
+		 Traint & Toleration
+		 resource limitations
+		 liveness probe & readness probe
+	Kubernetes backup
+	Kubernetes upgrade 
+    Managed Kubernetes 
+	   EKS,AKS,GKE
+	   
+ 
+----------------
+Important topics:
+     Azure DevOps
+	 Powershell
+	 python script
+	 Datadog
+	 NewRelic
+	 Kafka
+	 
+SRE :
+  Terraform
+  Monioring tools : matrics 
+                    Traceable 
+					Log monitoring 
+					Telemtrics
+  Devops tools git, github, maven, jenkins,nexus, sonarqube,tomcat/web logic , k8s,docker 
+					
+DevSecOps
+   security addon here
+   
+   vault
+   IAM/AD
+   trivy
+   sonarQube
+   SAST
+   DAST
+   Each tool security best practices follow 
+   
+-------------------------------------------------------
+AWS Most immportant topics:
+-------------------------
+ EC2
+ VPC
+ IAM
+ S3
+ EKS
+ ECR
+ CloudWatch
+ CloudFormation
+ CloudFront
+ Rout53
+ ELB
+ Autoscale
+ Lambda
+ SNS
+ SQS
+ CloudTrail
+ Cloud9
+ SageMaker
+ AWS Devops tools:
+     codeCommit
+	 CodePipeline
+	 CodeBuild
+	 CodeDeploy
+ KMS
+ 
+
+Terraform Topics:
+     Installation
+     Lifeline Commands 
+	 Datatypes
+	 Data Source
+     modules	 
+	 Provisioner
+	 Workspace
+	 terraform state
+	 terraform registry
+	 backend
+	 hasicop vault
+	 
+ Project info : 
+ Client : Sony 
+ project name :   Scuba
+ Description: application about sony media & enternment music 
+ project loaction : USA
+ Env tools : Linux ubuntu/redhat, Git , Github , AWS, Terraform, jira, Datadog, Gitops : Argocd , Github Actions, python language, Ansible,
+             AWS : EC2, S3, VPC, EKS, ECR, SageMaker, Cloud9, IAM, 
+ Project period: 6 months
+ Team size : 4
+ Roles & Responsibility:
+    > jira
+	> IAM
+	> K8s
+	> Git , github,github actions
+	> Shell scripting 
+	> python activity
+	> AWS 
+---------------------------------------------------------------
+AWS 
+----
+   EC2 
+   S3
+   VPC
+   ELB
+   Autoscale
+   
+
